@@ -1,0 +1,45 @@
+$mycolor: hsla(211, 90%, 59%, 0.6);
+
+body {
+	background: url(map.png);
+}
+
+#landing {
+	margin-top: 5%;
+
+	#h1c {
+	color: $mycolor;
+	}
+	#forma{
+	width: 40%;
+	margin-left: auto;
+	margin-right: auto;
+	}
+}
+
+.wrapper{
+	text-align: center;
+}
+
+#mybutton {
+	background-color: $mycolor;
+}
+
+footer {
+	margin-top: 5%;
+
+	a {
+	color: white;
+	}
+	p {
+	color: white;
+}
+
+}
+.indigo {
+	background-color: #3f51b5;
+}
+
+.footer-copyright {
+	background-color: rgba(0,0,0,.2);
+}

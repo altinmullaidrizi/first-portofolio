@@ -1,0 +1,43 @@
+body {
+  background: url(map.png);
+}
+
+#landing {
+  margin-top: 5%;
+}
+#landing #h1c {
+  color: rgba(56, 147, 245, 0.6);
+}
+#landing #forma {
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.wrapper {
+  text-align: center;
+}
+
+#mybutton {
+  background-color: rgba(56, 147, 245, 0.6);
+}
+
+footer {
+  margin-top: 5%;
+}
+footer a {
+  color: white;
+}
+footer p {
+  color: white;
+}
+
+.indigo {
+  background-color: #3f51b5;
+}
+
+.footer-copyright {
+  background-color: rgba(0, 0, 0, 0.2);
+}
+
+/*# sourceMappingURL=contactstyle.css.map */

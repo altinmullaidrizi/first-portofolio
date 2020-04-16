@@ -1,0 +1,59 @@
+#landing {
+  margin: auto;
+  width: 90%;
+  padding-top: 14%;
+}
+
+#landing h1 {
+	font-family: Arial;
+}
+
+#carouselshow {
+	width: 70%;
+}
+
+.portofolioimages{
+	width: 98%;
+}
+
+.vl{
+	border-left: 2px solid grey;
+  	height: 150px;
+}
+.h1ofport{
+	margin-top: 7%;
+}
+
+.rowofport{
+	margin-top: 1%;
+}
+#portofolio{
+	margin-top: 22%;
+}
+.giphy{
+	width:48px;
+	height:48px;
+	display: block;
+	margin-left: auto; 
+	margin-right: auto;
+	margin-top: 5%;
+	transform: rotate(270deg);
+}
+
+footer {
+	margin-top: 5%;
+}
+.indigo {
+	background-color: #3f51b5;
+}
+
+footer a {
+	color: white;
+}
+footer p {
+	color: white;
+}
+
+.footer-copyright {
+	background-color: rgba(0,0,0,.2);
+}
