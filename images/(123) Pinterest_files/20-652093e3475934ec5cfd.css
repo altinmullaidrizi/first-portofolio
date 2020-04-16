@@ -1,0 +1,1 @@
+.BoardsSlideLeft{animation:boardFlyoutSlideLeft .5s cubic-bezier(.165,.84,.44,1) forwards}.BoardsSlideRight{animation:boardFlyoutSlideRight .5s cubic-bezier(.165,.84,.44,1) forwards}@keyframes boardFlyoutSlideLeft{0%{margin-left:0}to{margin-left:-100%}}@keyframes boardFlyoutSlideRight{0%{margin-left:-100%}to{margin-left:0}}
